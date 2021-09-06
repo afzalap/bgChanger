@@ -1,0 +1,14 @@
+com/bgchanger/BuildConfig.java
+ com.bgchanger.BuildConfig
+com/bgchanger/MainActivity.java
+ com.bgchanger.MainActivity
+com/bgchanger/ReactNativeFlipper.java
+ com.bgchanger.ReactNativeFlipper
+ com.bgchanger.ReactNativeFlipper$1
+ com.bgchanger.ReactNativeFlipper$2
+ com.bgchanger.ReactNativeFlipper$2$1
+com/bgchanger/MainApplication.java
+ com.bgchanger.MainApplication
+ com.bgchanger.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
